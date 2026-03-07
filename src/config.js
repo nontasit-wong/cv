@@ -1,38 +1,22 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Nontasit Wongsirilert',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Nontasit Wongsirilert (Rich) is a Data Scientist based in Bangkok, Thailand, specializing in ML modeling, credit risk, analytics, and data-driven business strategy.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Nontasit Wongsirilert, Rich, data scientist, machine learning, analytics, SQL, Python, credit risk, Bangkok, Thailand',
+  siteUrl: 'https://nontasit-wongsirilert.github.io/',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
-  twitterHandle: '@',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'Nontasit Wongsirilert',
+  location: 'Bangkok, Thailand',
+  email: 'nontasit.wong@gmail.com',
+  github: '',
+  twitterHandle: '',
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://www.linkedin.com/in/nontasit-wongsirilert-5b9b93136',
     },
   ],
 
